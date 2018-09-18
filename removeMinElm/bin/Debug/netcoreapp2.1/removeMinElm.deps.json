@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "040373215f17509f1d1a4c713e9c6ba57810d772"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "removeMinElm/1.0.0": {
+        "dependencies": {
+          "NUnit": "3.10.1",
+          "NUnit.Console": "3.9.0"
+        },
+        "runtime": {
+          "removeMinElm.dll": {}
+        }
+      },
+      "NUnit/3.10.1": {
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.10.1.0",
+            "fileVersion": "3.10.1.0"
+          }
+        }
+      },
+      "NUnit.Console/3.9.0": {
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.9.0",
+          "NUnit.Extension.NUnitProjectLoader": "3.5.0",
+          "NUnit.Extension.NUnitV2Driver": "3.6.0",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.5.0",
+          "NUnit.Extension.TeamCityEventListener": "1.0.3",
+          "NUnit.Extension.VSProjectLoader": "3.8.0"
+        }
+      },
+      "NUnit.ConsoleRunner/3.9.0": {},
+      "NUnit.Extension.NUnitProjectLoader/3.5.0": {},
+      "NUnit.Extension.NUnitV2Driver/3.6.0": {},
+      "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {},
+      "NUnit.Extension.TeamCityEventListener/1.0.3": {},
+      "NUnit.Extension.VSProjectLoader/3.8.0": {}
+    }
+  },
+  "libraries": {
+    "removeMinElm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/3.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3ii6+VLdeIxTQ5gPjk/7g/xl+aCifbfcIkiGayZCuos+22FEdtKGrxMe6SzoXCQCcL7gdqhfNIFTaZ1+dS18g==",
+      "path": "nunit/3.10.1",
+      "hashPath": "nunit.3.10.1.nupkg.sha512"
+    },
+    "NUnit.Console/3.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KytaIwce3/kUzUhcpTaENDGOcZqY0HHKXsD5oHjzTg5LxHMS601mgBsBplFdz21WSdVPgDVZd2YiSvkuLL5L7A==",
+      "path": "nunit.console/3.9.0",
+      "hashPath": "nunit.console.3.9.0.nupkg.sha512"
+    },
+    "NUnit.ConsoleRunner/3.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WFrAd1gEpe6v7KZxlV0vhP6r1DJ4ttFrBXXkw0QGJ7OKiLI9vcqNTHQC67cs6W3FBBM84rNUJ5q2+GiL+my1tQ==",
+      "path": "nunit.consolerunner/3.9.0",
+      "hashPath": "nunit.consolerunner.3.9.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitProjectLoader/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oe+PYd5uf0u3WoV6txz6esPe5I9I3PV0o96KoEVvJs+AYMG9MCebmnMq7N8dYJrWiDKIuSDwZ6WTs84XTDZ/Pw==",
+      "path": "nunit.extension.nunitprojectloader/3.5.0",
+      "hashPath": "nunit.extension.nunitprojectloader.3.5.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitV2Driver/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TZIWwZaND/91p9FCuZH0vJLNPVyFV4No6XHgtd2ZLwN6MQZVPWdI4apL38ejsKAFn3nF1yTlvJgYF1l2mlo8wA==",
+      "path": "nunit.extension.nunitv2driver/3.6.0",
+      "hashPath": "nunit.extension.nunitv2driver.3.6.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qz5Xxd+yBStdMP/jIIFz01cN3x8rKBCoF3alFHa5Gr+lZqdFyV1DN+3l8AlHrDSX5OzAz+T5CCBkgDim/hqGkQ==",
+      "path": "nunit.extension.nunitv2resultwriter/3.5.0",
+      "hashPath": "nunit.extension.nunitv2resultwriter.3.5.0.nupkg.sha512"
+    },
+    "NUnit.Extension.TeamCityEventListener/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xl/ISHoJMbQHxpfa06KELaSU46V+KjofeZHAPmlb6ohw4HmmzRp+Hk7vkJPZtNyTrKZbqutefOSMKpnkgEl8tA==",
+      "path": "nunit.extension.teamcityeventlistener/1.0.3",
+      "hashPath": "nunit.extension.teamcityeventlistener.1.0.3.nupkg.sha512"
+    },
+    "NUnit.Extension.VSProjectLoader/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BwD/qg+4mRfwsoAGquAc//lnWyJJmo/+hGolhZZ3o6NiGo2Tgk2uAkpcO56DAMRaHVIrNBokH8UkYyDsmNvqoQ==",
+      "path": "nunit.extension.vsprojectloader/3.8.0",
+      "hashPath": "nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
+    }
+  }
+}

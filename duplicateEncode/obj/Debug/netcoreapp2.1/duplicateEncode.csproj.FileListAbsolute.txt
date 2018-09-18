@@ -1,0 +1,11 @@
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/bin/Debug/netcoreapp2.1/duplicateEncode.deps.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/bin/Debug/netcoreapp2.1/duplicateEncode.runtimeconfig.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/bin/Debug/netcoreapp2.1/duplicateEncode.runtimeconfig.dev.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/bin/Debug/netcoreapp2.1/duplicateEncode.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/bin/Debug/netcoreapp2.1/duplicateEncode.pdb
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/obj/Debug/netcoreapp2.1/duplicateEncode.csprojAssemblyReference.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/obj/Debug/netcoreapp2.1/duplicateEncode.csproj.CoreCompileInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/obj/Debug/netcoreapp2.1/duplicateEncode.AssemblyInfoInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/obj/Debug/netcoreapp2.1/duplicateEncode.AssemblyInfo.cs
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/obj/Debug/netcoreapp2.1/duplicateEncode.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/duplicateEncode/obj/Debug/netcoreapp2.1/duplicateEncode.pdb

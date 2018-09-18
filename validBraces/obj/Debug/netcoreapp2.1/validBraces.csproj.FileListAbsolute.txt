@@ -1,0 +1,11 @@
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/bin/Debug/netcoreapp2.1/validBraces.deps.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/bin/Debug/netcoreapp2.1/validBraces.runtimeconfig.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/bin/Debug/netcoreapp2.1/validBraces.runtimeconfig.dev.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/bin/Debug/netcoreapp2.1/validBraces.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/bin/Debug/netcoreapp2.1/validBraces.pdb
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/obj/Debug/netcoreapp2.1/validBraces.csprojAssemblyReference.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/obj/Debug/netcoreapp2.1/validBraces.csproj.CoreCompileInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/obj/Debug/netcoreapp2.1/validBraces.AssemblyInfoInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/obj/Debug/netcoreapp2.1/validBraces.AssemblyInfo.cs
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/obj/Debug/netcoreapp2.1/validBraces.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/validBraces/obj/Debug/netcoreapp2.1/validBraces.pdb

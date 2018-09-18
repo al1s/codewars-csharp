@@ -1,0 +1,11 @@
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/bin/Debug/netcoreapp2.1/tenMinutesWalk.deps.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/bin/Debug/netcoreapp2.1/tenMinutesWalk.runtimeconfig.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/bin/Debug/netcoreapp2.1/tenMinutesWalk.runtimeconfig.dev.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/bin/Debug/netcoreapp2.1/tenMinutesWalk.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/bin/Debug/netcoreapp2.1/tenMinutesWalk.pdb
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/obj/Debug/netcoreapp2.1/tenMinutesWalk.csprojAssemblyReference.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/obj/Debug/netcoreapp2.1/tenMinutesWalk.csproj.CoreCompileInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/obj/Debug/netcoreapp2.1/tenMinutesWalk.AssemblyInfoInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/obj/Debug/netcoreapp2.1/tenMinutesWalk.AssemblyInfo.cs
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/obj/Debug/netcoreapp2.1/tenMinutesWalk.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/tenMinutesWalk/obj/Debug/netcoreapp2.1/tenMinutesWalk.pdb
