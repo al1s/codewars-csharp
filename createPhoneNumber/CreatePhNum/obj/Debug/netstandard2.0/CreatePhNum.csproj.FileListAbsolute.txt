@@ -1,0 +1,9 @@
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/obj/Debug/netstandard2.0/CreatePhNum.csprojAssemblyReference.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/obj/Debug/netstandard2.0/CreatePhNum.csproj.CoreCompileInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/obj/Debug/netstandard2.0/CreatePhNum.AssemblyInfoInputs.cache
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/obj/Debug/netstandard2.0/CreatePhNum.AssemblyInfo.cs
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/bin/Debug/netstandard2.0/CreatePhNum.deps.json
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/bin/Debug/netstandard2.0/CreatePhNum.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/bin/Debug/netstandard2.0/CreatePhNum.pdb
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/obj/Debug/netstandard2.0/CreatePhNum.dll
+/home/alstof/Apprenticeship_CodeFellows/Code401/prework/createPhoneNumber/CreatePhNum/obj/Debug/netstandard2.0/CreatePhNum.pdb
