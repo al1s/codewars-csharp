@@ -10,6 +10,9 @@
 .vscode
 publish
 Release
+bin
+coreFX
+linkedList
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
